@@ -1,0 +1,5 @@
+pandas>=2.0
+customtkinter>=5.0
+mutagen>=1.47
+lxml>=5.0
+beautifulsoup4>=4.12
